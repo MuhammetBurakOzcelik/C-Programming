@@ -4,7 +4,9 @@ Bu repoda C Programlama dili ile yazılmış projeler bulunmaktadır.
 Projelerin içerdiği konu başlıkları şu şekilde:
   * Char / String Operasyonları
   * Array (Diziler)
-  * Dosyadan okuma işlemleri
+  * Dosyadan Okuma/Yazma işlemleri
   * Bağlı Listeler (Linked List)
   * Dinamik Yer Ayırma işlemleri (Malloc/Calloc)
   * Struct/Union Veri yapıları.
+  * Özyinemeli(Recursion) Fonksiyonlar
+  * Global değişken kullanımı
